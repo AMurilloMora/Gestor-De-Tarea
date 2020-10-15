@@ -1,0 +1,23 @@
+{
+  "name": "Gestor-De-Tarea",
+  "version": "1.0.0",
+  "description": "integrantes",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AMurilloMora/Gestor-De-Tarea.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AMurilloMora/Gestor-De-Tarea/issues"
+  },
+  "homepage": "https://github.com/AMurilloMora/Gestor-De-Tarea#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
